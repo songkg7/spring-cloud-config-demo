@@ -8,3 +8,10 @@ spring:
         git:
           uri: https://github.com/songkg7/config-repository
           default-label: main
+    bus:
+      enabled: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: haril
+    password: haril
