@@ -7,3 +7,4 @@ spring:
       server:
         git:
           uri: https://github.com/songkg7/config-repository
+          default-label: main
